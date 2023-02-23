@@ -16,3 +16,19 @@ font-size: 40px;
    margin: 16px 0;
    font-size: 24px;
 }
+
+.imagem-da-escola {
+    width: 20%;
+}
+
+.escola {
+    background-color: #81D0D5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 30%;
+}
